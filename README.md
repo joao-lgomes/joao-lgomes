@@ -1,6 +1,6 @@
 ### Olá! Sou o João Luiz 👋🏻
 
-<img align="right" alt="profile" height="190" style="border-radius:50px;"
+<img align="right" alt="profile" height="170" style="border-radius:50px;"
     src="https://i.imgur.com/RahqEBC.png?width=739&height=509">
 
 <div style="display: inline_block;">
