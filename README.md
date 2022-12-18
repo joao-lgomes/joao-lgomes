@@ -1,4 +1,4 @@
-### Olá caro visitante! Meu nome é João Luiz 👋🏻
+### Olá! Sou o João Luiz 👋🏻
 
 <img align="right" alt="profile" height="225" style="border-radius:50px;"
     src="https://i.imgur.com/vpcU6Pp.jpeg?width=1201&height=1208">
