@@ -1,6 +1,6 @@
 ### Olá! Sou o João Luiz 👋🏻
 
-<img align="right" alt="profile" height="210" style="border-radius:50px;"
+<img align="right" alt="profile" height="190" style="border-radius:50px;"
     src="https://i.imgur.com/RahqEBC.png?width=739&height=509">
 
 <div style="display: inline_block;">
@@ -15,7 +15,7 @@
 📚 Estou estudando e tentando me especializar em desenvolvimento mobile, com flutter e kotlin
 
 <br>
-🎮 Gosto de jogar Stardew Valley, Skyrim, The Wicher 3, CS:GO e Rainbow Six Siege
+🎮 Gosto de jogar Stardew Valley, Skyrim, The Wicher 3, CS:GO, Rainbow Six Siege, ...
 
 <br>
 🎨 Amante de arte, acampar, ciclismo, mangás, e de assistir futebol, animes, filmes e séries
