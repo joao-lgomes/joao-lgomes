@@ -1,18 +1,18 @@
 ### Olá! Sou o João Luiz 👋🏻
 
-<img align="right" alt="profile" height="225" style="border-radius:50px;"
-    src="https://i.imgur.com/vpcU6Pp.jpeg?width=1201&height=1208">
+<img align="right" alt="profile" height="210" style="border-radius:50px;"
+    src="https://i.imgur.com/RahqEBC.png?width=739&height=509">
 
 <div style="display: inline_block;">
 
 <br>
-💻 Trabalho atualmente na como desenvolvedor mobile e backend. utilizando ionic, flutter e NestJs
+💻 Trabalho atualmente como desenvolvedor mobile e backend. utilizando ionic, flutter e NestJs
 
 <br>
 🎓 Estou cursando o 9º Período de Engenharia de Computação em Uberaba-MG
 
 <br>
-📚 Estou estudando e tentando me especializar em flutter e desenvolvimento android com kotlin
+📚 Estou estudando e tentando me especializar em desenvolvimento mobile, com flutter e kotlin
 
 <br>
 🎮 Gosto de jogar Stardew Valley, Skyrim, The Wicher 3, CS:GO e Rainbow Six Siege
