@@ -9,7 +9,7 @@
 💻 Trabalho atualmente como desenvolvedor mobile e backend. utilizando ionic, flutter e NestJs
 
 <br>
-🎓 Estou cursando o 9º Período de Engenharia de Computação em Uberaba-MG
+🎓 Estou cursando o 10º Período de Engenharia de Computação em Uberaba-MG
 
 <br>
 📚 Estou estudando e tentando me especializar em desenvolvimento mobile, com flutter e kotlin
