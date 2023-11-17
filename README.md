@@ -6,7 +6,7 @@
 <div style="display: inline_block;">
 
 <br>
-💻 Trabalho atualmente como desenvolvedor mobile e backend. utilizando ionic, flutter e NestJs
+💻 Trabalho atualmente como desenvolvedor mobile com foco em Flutter e backend utilziando Nest.
 
 <br>
 🎓 Estou cursando o 10º Período de Engenharia de Computação em Uberaba-MG
