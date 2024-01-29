@@ -1,4 +1,4 @@
-### Olá! Sou o João Luiz 👋🏻
+### Hello! I'm João Luiz 👋🏻
 
 <img align="right" alt="profile" height="170" style="border-radius:50px;"
     src="https://i.imgur.com/RahqEBC.png?width=739&height=509">
@@ -6,19 +6,19 @@
 <div style="display: inline_block;">
 
 <br>
-💻 Trabalho atualmente como desenvolvedor mobile com foco em Flutter e backend utilziando Nest.
+💻 I currently work as a Mobile Engineer focusing on Flutter.
 
 <br>
-🎓 Estou cursando o 10º Período de Engenharia de Computação em Uberaba-MG
+🎓 I have a degree in Computer Engineering, from IFTM in Uberaba-MG - Brazil
 
 <br>
-📚 Estou estudando e tentando me especializar em desenvolvimento mobile, com flutter e kotlin
+📚 I'm specializing in mobile development using flutter, and I'm also interested in native mobile languages
 
 <br>
-🎮 Gosto de jogar Stardew Valley, Skyrim, The Wicher 3, CS:GO, Rainbow Six Siege, ...
+🎮 I like playing Stardew Valley, Skyrim, The Wicher 3, CS:GO, Rainbow Six Siege, and other games
 
 <br>
-🎨 Amante de arte, acampar, ciclismo, mangás, e de assistir futebol, animes, filmes e séries
+🎨 Tenho como hobbies a arte, acampar, ciclismo, mangás, e gosto de assistir futebol, animes, filmes e séries
 
 <br>
 <br>
@@ -41,12 +41,25 @@
 <br>
 
 <div style="display: inline_block; margin-bottom: 14em;" align="center">
-<p>Tecnologias que já utilizei:</p>
+<p>Technologies I've used:</p>
 
 <div>
   <table>
   <tr style="width=100%">
-   
+   <td align="center" width="120px">
+                        <p>
+                            <img align="center" alt="DART" height="50" width="auto"
+                                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+                        </p>
+                        <small>dart</small>
+                    </td>
+  <td align="center" width="120px">
+                        <p>
+                            <img align="center" alt="FLUTTER" height="50" width="auto"
+                                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+                        </p>
+                        <small>Flutter</small>
+      
    <td align="center" width="120px">
                         <p>
                             <img align="center" alt="JS" height="50" width="auto"
@@ -99,21 +112,6 @@
                         <small>NodeJS</small>
                     </td>
 
-
- <td align="center" width="120px">
-                        <p>
-                            <img align="center" alt="DART" height="50" width="auto"
-                                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-                        </p>
-                        <small>dart</small>
-                    </td>
-  <td align="center" width="120px">
-                        <p>
-                            <img align="center" alt="FLUTTER" height="50" width="auto"
-                                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-                        </p>
-                        <small>Flutter</small>
-
  
 
   </table>
@@ -159,7 +157,7 @@
 <br>
 <div style="display: inline_block; margin-top: 50px;" align="center">
 
-<p>Tecnologias que busco desbravar:</p>
+<p>Technologies I seek to explore:</p>
 
   <table>
   <tr style="width=100%">
@@ -199,10 +197,18 @@
 <br>
 <div style="display: inline_block; margin-top: 50px;" align="center">
 
-<p>Frameworks que estou me Especializando:</p>
+<p>Frameworks I'm Specializing in:</p>
 
   <table>
   <tr style="width=100%">
+       <td align="center" width="120px">
+                        <p>
+                            <img align="center" alt="FLUTTER" height="50" width="auto"
+                                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+                        </p>
+                        <small>Flutter</small>
+                    </td>
+      
  <td align="center" width="120px">
                         <p>
                             <img align="center" alt="IONIC" height="50" width="auto"
@@ -219,13 +225,6 @@
                                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
                         </p>
                         <small>NestJS</small>
-                    </td>
-     <td align="center" width="120px">
-                        <p>
-                            <img align="center" alt="FLUTTER" height="50" width="auto"
-                                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-                        </p>
-                        <small>Flutter</small>
                     </td>
       
   </tr>
