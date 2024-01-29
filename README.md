@@ -18,15 +18,12 @@
 🎮 I like playing Stardew Valley, Skyrim, The Wicher 3, CS:GO, Rainbow Six Siege, and other games
 
 <br>
-🎨 Tenho como hobbies a arte, acampar, ciclismo, mangás, e gosto de assistir futebol, animes, filmes e séries
+🎨 My hobbies are art, camping, cycling, manga, and I like watching football, anime, films and series.
 
 <br>
 <br>
 <br>
 <div align="center">
-    <a href="https://www.instagram.com/joao_lzg/" target="_blank"><img
-            src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            target="_blank"></a>
     <a href="https://www.linkedin.com/in/joão-luiz-gomes/" target="_blank"><img
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             target="_blank"></a>
